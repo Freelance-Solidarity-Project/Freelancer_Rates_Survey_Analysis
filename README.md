@@ -10,11 +10,11 @@ You can find the survey here: [https://docs.google.com/forms/d/e/1FAIpQLSdS\_3Dn
 
 **Definitions:** 
 
-**fsp\_rates\_database\_19940327-20251105.Original.csv**
+**[fsp\_rates\_database\_19940327-20251105.Original.csv](fsp_rates_database_19940327-20251105.Original.csv)**
 
 Output file produced after running our codebase analysis.
 
-**ffsp\_rates\_database\_19940327-20251105.Analysis.csv**
+**[ffsp\_rates\_database\_19940327-20251105.Analysis.csv](fsp_rates_database_19940327-20251105.Analysis.csv)**
 
 Dataset builds off of the “Original” csv, adding new fields used for analysis. 
 
